@@ -13,5 +13,9 @@
 - Ye Guangfu aboard Tiangong
 
  ISS Real-Time Location:
-Latitude: -16.1296
-Longitude: 83.4614
+Latitude: 51.2649
+Longitude: -171.8667
+
+ ISS Real-Time Location:
+Latitude: 51.2649
+Longitude: -171.8667

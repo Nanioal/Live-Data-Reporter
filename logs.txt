@@ -6,3 +6,9 @@ Mon Jul 14 12:31:38 2025 - [Astronauts] Fetched astronaut list - Success
 Mon Jul 14 12:32:39 2025 - [ISS Tracker] Fetched ISS location - Success
 Mon Jul 14 12:33:27 2025 - [News] Fetched headlines - Success
 Mon Jul 14 12:33:41 2025 - [Stock] Fetched IBM stock price - Success
+Mon Jul 14 13:02:02 2025 - [Astronauts] Fetched astronaut list - Success
+Mon Jul 14 13:02:38 2025 - [ISS Tracker] Fetch failed - Failed - couldn't open "images/map.png": no such file or directory
+Mon Jul 14 13:03:34 2025 - [ISS Tracker] Fetch failed - Failed - Bad arguments for register_shape.
+Use  help(register_shape)
+Mon Jul 14 13:03:51 2025 - [News] Fetched headlines - Success
+Mon Jul 14 13:04:21 2025 - [Stock] Fetched IBM stock price - Success
